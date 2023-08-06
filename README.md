@@ -1,6 +1,5 @@
 # Numadic-Test
-**
-# FlaskAPIProject **
+# FlaskAPIProject
 This contains a Basic Flask App that fetches data from two different csv files, calculates some metrices and returns the resultant merged data.
 
 To run the API:
